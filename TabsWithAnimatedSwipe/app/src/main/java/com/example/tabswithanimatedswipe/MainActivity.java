@@ -7,15 +7,18 @@ import androidx.viewpager2.adapter.FragmentStateAdapter;
 import androidx.viewpager2.widget.ViewPager2;
 
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 
 import com.google.android.material.tabs.TabLayout;
 import com.google.android.material.tabs.TabLayoutMediator;
 
-import pl.droidsonroids.gif.GifDrawable;
+import okhttp3.Callback;
+import okhttp3.ResponseBody;
+import retrofit2.Call;
 
 // 앱의 기본 틀(TabLayout과 ViewPager2)을 만드는 액티비티 - 탭 내부의 세부사항은 다른 Fragment를 불러와서 채움.
-public class MainActivity extends FragmentActivity {
+public class MainActivity<val> extends FragmentActivity {
 
     /**
      * The number of pages (wizard steps) to show in this demo.
@@ -60,7 +63,6 @@ public class MainActivity extends FragmentActivity {
         tabLayout = findViewById(R.id.tab_layout);
         new TabLayoutMediator(tabLayout, viewPager,
                 this::setTextOfTabs).attach();
-        tabLayout.addOnTabSelectedListener(new MyOnTabSelectedListener());
     }
 
 
@@ -68,38 +70,12 @@ public class MainActivity extends FragmentActivity {
         switch (position + 1) {
             case 1 :
                 tab.setText("연락처");
-                GifDrawable gifDrawable1 = null;
-                try { gifDrawable1 = new GifDrawable(getResources(), R.drawable.docparrot); }
-                catch (Exception e) {
-                    e.printStackTrace();
-                }
-                if (gifDrawable1 != null) {
-                    tab.setIcon(gifDrawable1);
-                }
                 break;
             case 2 :
                 tab.setText("이미지");
-                GifDrawable gifDrawable2 = null;
-                try { gifDrawable2 = new GifDrawable(getResources(), R.drawable.quadparrot); }
-                catch (Exception e) {
-                    e.printStackTrace();
-                }
-                if (gifDrawable2 != null) {
-                    gifDrawable2.stop();
-                    tab.setIcon(gifDrawable2);
-                }
                 break;
             case 3 :
                 tab.setText("그림판");
-                GifDrawable gifDrawable3 = null;
-                try { gifDrawable3 = new GifDrawable(getResources(), R.drawable.picassoparrot); }
-                catch (Exception e) {
-                    e.printStackTrace();
-                }
-                if (gifDrawable3 != null) {
-                    gifDrawable3.stop();
-                    tab.setIcon(gifDrawable3);
-                }
                 break;
         }
     }
@@ -175,23 +151,4 @@ public class MainActivity extends FragmentActivity {
 
     }
 
-    private class MyOnTabSelectedListener implements TabLayout.OnTabSelectedListener {
-        @Override
-        public void onTabReselected(TabLayout.Tab tab) {
-            GifDrawable gifDrawable = (GifDrawable) tab.getIcon();
-            gifDrawable.reset();
-        }
-
-        @Override
-        public void onTabSelected(TabLayout.Tab tab) {
-            GifDrawable gifDrawable = (GifDrawable) tab.getIcon();
-            gifDrawable.reset();
-        }
-
-        @Override
-        public void onTabUnselected(TabLayout.Tab tab)  {
-            GifDrawable gifDrawable = (GifDrawable) tab.getIcon();
-            gifDrawable.stop();
-        }
-    }
 }

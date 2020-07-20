@@ -6,57 +6,231 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="23"
-8-->C:\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml
+8-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->C:\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml
+9-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.READ_CONTACTS" />
-11-->C:\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:5:5-72
-11-->C:\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:5:22-69
+11-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:5:5-72
+11-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:5:22-69
 12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-12-->C:\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:6:5-79
-12-->C:\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:6:22-77
+12-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:6:22-77
 13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-13-->C:\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:7:5-81
-13-->C:\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:7:22-78
-14
-15    <application
-15-->C:\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:9:5-23:19
-16        android:allowBackup="true"
-16-->C:\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:10:9-35
-17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-17-->[androidx.core:core:1.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\03736cf4bc3669a69d502627b70a527e\core-1.1.0\AndroidManifest.xml:24:18-86
-18        android:debuggable="true"
-19        android:extractNativeLibs="false"
-20        android:icon="@mipmap/ic_bonobono"
-20-->C:\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:11:9-43
-21        android:label="@string/app_name"
-21-->C:\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:12:9-41
-22        android:roundIcon="@mipmap/ic_bonobono_round"
-22-->C:\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:13:9-54
-23        android:supportsRtl="true"
-23-->C:\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:14:9-35
-24        android:testOnly="true"
-25        android:theme="@style/AppTheme" >
-25-->C:\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:15:9-40
-26        <activity android:name="com.example.tabswithanimatedswipe.IntroActivity" >
-26-->C:\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:16:9-21:20
-26-->C:\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:16:19-48
-27            <intent-filter>
-27-->C:\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:17:13-20:29
-28                <action android:name="android.intent.action.MAIN" />
-28-->C:\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:18:17-69
-28-->C:\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:18:25-66
+13-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:7:5-81
+13-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:8:5-66
+14-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:8:22-64
+15    <uses-permission android:name="android.permission.CAMERA" />
+15-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:9:5-65
+15-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:9:22-62
+16
+17    <uses-feature
+17-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:11:5-13:36
+18        android:name="android.hardware.camera2"
+18-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:12:9-48
+19        android:required="false" />
+19-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:13:9-33
+20    <uses-feature
+20-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:14:5-16:36
+21        android:name="android.hardware.camera2.autofocus"
+21-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:15:9-58
+22        android:required="false" />
+22-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:16:9-33
+23    <uses-feature
+23-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:17:5-19:36
+24        android:name="android.hardware.camera2.flash"
+24-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:18:9-54
+25        android:required="false" />
+25-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:19:9-33
+26
+27    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+27-->[org.mongodb:stitch-android-core:4.7.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\b2116b63897b6b0ef242b9cb949fe413\jetified-stitch-android-core-4.7.0\AndroidManifest.xml:11:5-79
+27-->[org.mongodb:stitch-android-core:4.7.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\b2116b63897b6b0ef242b9cb949fe413\jetified-stitch-android-core-4.7.0\AndroidManifest.xml:11:22-76
+28    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+28-->[com.android.installreferrer:installreferrer:1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\ea48bf5eeb3478e6781dbda599cb6889\jetified-installreferrer-1.0\AndroidManifest.xml:9:5-110
+28-->[com.android.installreferrer:installreferrer:1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\ea48bf5eeb3478e6781dbda599cb6889\jetified-installreferrer-1.0\AndroidManifest.xml:9:22-107
 29
-30                <category android:name="android.intent.category.LAUNCHER" />
-30-->C:\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:19:17-77
-30-->C:\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:19:27-74
-31            </intent-filter>
-32        </activity>
-33        <activity android:name="com.example.tabswithanimatedswipe.MainActivity" >
-33-->C:\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:22:9-60
-33-->C:\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:22:19-47
-34        </activity>
-35    </application>
-36
-37</manifest>
+30    <application
+30-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:21:5-53:19
+31        android:allowBackup="true"
+31-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:22:9-35
+32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+32-->[androidx.core:core:1.1.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\03736cf4bc3669a69d502627b70a527e\core-1.1.0\AndroidManifest.xml:24:18-86
+33        android:debuggable="true"
+34        android:extractNativeLibs="false"
+35        android:icon="@mipmap/ic_bonobono"
+35-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:23:9-43
+36        android:label="@string/app_name"
+36-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:24:9-41
+37        android:roundIcon="@mipmap/ic_bonobono_round"
+37-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:25:9-54
+38        android:supportsRtl="true"
+38-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:26:9-35
+39        android:testOnly="true"
+40        android:theme="@style/AppTheme"
+40-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:28:9-40
+41        android:usesCleartextTraffic="true" >
+41-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:27:9-44
+42        <meta-data
+42-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:29:9-107
+43            android:name="com.facebook.sdk.ApplicationId"
+43-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:29:20-65
+44            android:value="@string/facebook_app_id" />
+44-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:29:66-105
+45
+46        <activity
+46-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:30:9-184
+47            android:name="com.facebook.FacebookActivity"
+47-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:30:19-63
+48            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+48-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:30:64-148
+49            android:label="@string/app_name"
+49-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:30:149-181
+50            android:theme="@style/com_facebook_activity_theme" />
+50-->[com.facebook.android:facebook-common:5.15.3] C:\Users\q\.gradle\caches\transforms-2\files-2.1\9d39919e75281ee7e5ef718e06840074\jetified-facebook-common-5.15.3\AndroidManifest.xml:33:13-63
+51        <activity
+51-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:31:9-33:96
+52            android:name="com.facebook.CustomTabActivity"
+52-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:31:19-64
+53            android:exported="true" >
+53-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:31:65-88
+54            <intent-filter>
+54-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:31:90-33:84
+55                <action android:name="android.intent.action.VIEW" />
+55-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:31:106-158
+55-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:31:114-155
+56
+57                <category android:name="android.intent.category.DEFAULT" />
+57-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:32:9-68
+57-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:32:19-65
+58                <category android:name="android.intent.category.BROWSABLE" />
+58-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:32:69-130
+58-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:32:79-127
+59
+60                <data android:scheme="@string/fb_login_protocol_scheme" />
+60-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:33:9-67
+60-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:33:15-64
+61            </intent-filter>
+62            <intent-filter>
+62-->[com.facebook.android:facebook-common:5.15.3] C:\Users\q\.gradle\caches\transforms-2\files-2.1\9d39919e75281ee7e5ef718e06840074\jetified-facebook-common-5.15.3\AndroidManifest.xml:39:13-48:29
+63                <action android:name="android.intent.action.VIEW" />
+63-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:31:106-158
+63-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:31:114-155
+64
+65                <category android:name="android.intent.category.DEFAULT" />
+65-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:32:9-68
+65-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:32:19-65
+66                <category android:name="android.intent.category.BROWSABLE" />
+66-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:32:69-130
+66-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:32:79-127
+67
+68                <data
+68-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:33:9-67
+69                    android:host="cct.com.example.tabswithanimatedswipe"
+70                    android:scheme="fbconnect" />
+70-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:33:15-64
+71            </intent-filter>
+72        </activity>
+73
+74        <provider
+75            android:name="androidx.core.content.FileProvider"
+75-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:35:13-62
+76            android:authorities="com.example.tabswithanimatedswipe.provider"
+76-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:36:13-60
+77            android:exported="false"
+77-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:37:13-37
+78            android:grantUriPermissions="true" >
+78-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:38:13-47
+79            <meta-data
+79-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:39:13-41:57
+80                android:name="android.support.FILE_PROVIDER_PATHS"
+80-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:40:17-67
+81                android:resource="@xml/provider_paths" />
+81-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:41:17-55
+82        </provider>
+83
+84        <activity android:name="com.example.tabswithanimatedswipe.MainActivity" >
+84-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:44:9-50:20
+84-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:44:19-47
+85            <intent-filter>
+85-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:45:13-49:29
+86                <action android:name="android.intent.action.MAIN" />
+86-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:46:17-69
+86-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:46:25-66
+87
+88                <category android:name="android.intent.category.LAUNCHER" />
+88-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:48:17-77
+88-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:48:27-74
+89            </intent-filter>
+90        </activity>
+91        <activity android:name="com.example.tabswithanimatedswipe.UploadActivity" >
+91-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:52:9-62
+91-->C:\Users\q\Desktop\madcamp proj 1\madcamp-week1\TabsWithAnimatedSwipe\app\src\main\AndroidManifest.xml:52:19-49
+92        </activity>
+93        <activity android:name="com.facebook.CustomTabMainActivity" /> <!-- MongoDbMobileProvider initialize MongoDB Mobile for future usage -->
+93-->[com.facebook.android:facebook-common:5.15.3] C:\Users\q\.gradle\caches\transforms-2\files-2.1\9d39919e75281ee7e5ef718e06840074\jetified-facebook-common-5.15.3\AndroidManifest.xml:34:9-71
+93-->[com.facebook.android:facebook-common:5.15.3] C:\Users\q\.gradle\caches\transforms-2\files-2.1\9d39919e75281ee7e5ef718e06840074\jetified-facebook-common-5.15.3\AndroidManifest.xml:34:19-68
+94        <provider
+94-->[org.mongodb:stitch-android-services-mongodb-local:4.7.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c6dcc4a9421a769244c86576b2c874d7\jetified-stitch-android-services-mongodb-local-4.7.0\AndroidManifest.xml:14:9-17:40
+95            android:name="com.mongodb.stitch.android.services.mongodb.local.internal.MongoDbMobileProvider"
+95-->[org.mongodb:stitch-android-services-mongodb-local:4.7.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c6dcc4a9421a769244c86576b2c874d7\jetified-stitch-android-services-mongodb-local-4.7.0\AndroidManifest.xml:15:13-108
+96            android:authorities="com.example.tabswithanimatedswipe.StitchMongoDBMobileProvider"
+96-->[org.mongodb:stitch-android-services-mongodb-local:4.7.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c6dcc4a9421a769244c86576b2c874d7\jetified-stitch-android-services-mongodb-local-4.7.0\AndroidManifest.xml:16:13-79
+97            android:exported="false" />
+97-->[org.mongodb:stitch-android-services-mongodb-local:4.7.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\c6dcc4a9421a769244c86576b2c874d7\jetified-stitch-android-services-mongodb-local-4.7.0\AndroidManifest.xml:17:13-37
+98        <!--
+99          StitchInitProvider is a ContentProvider that will associate the application's Context
+100          with Stitch. It also will look for resource values such as stitch_client_app_id to register
+101           a default app client.
+102        -->
+103        <provider
+103-->[org.mongodb:stitch-android-core:4.7.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\b2116b63897b6b0ef242b9cb949fe413\jetified-stitch-android-core-4.7.0\AndroidManifest.xml:21:9-24:40
+104            android:name="com.mongodb.stitch.android.core.internal.StitchInitProvider"
+104-->[org.mongodb:stitch-android-core:4.7.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\b2116b63897b6b0ef242b9cb949fe413\jetified-stitch-android-core-4.7.0\AndroidManifest.xml:22:13-87
+105            android:authorities="com.example.tabswithanimatedswipe.StitchInitProvider"
+105-->[org.mongodb:stitch-android-core:4.7.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\b2116b63897b6b0ef242b9cb949fe413\jetified-stitch-android-core-4.7.0\AndroidManifest.xml:23:13-70
+106            android:exported="false" />
+106-->[org.mongodb:stitch-android-core:4.7.0] C:\Users\q\.gradle\caches\transforms-2\files-2.1\b2116b63897b6b0ef242b9cb949fe413\jetified-stitch-android-core-4.7.0\AndroidManifest.xml:24:13-37
+107
+108        <meta-data
+108-->[com.google.android.gms:play-services-basement:15.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\f994ffe4924e11acce98abd8fb4206ba\jetified-play-services-basement-15.0.1\AndroidManifest.xml:23:9-25:69
+109            android:name="com.google.android.gms.version"
+109-->[com.google.android.gms:play-services-basement:15.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\f994ffe4924e11acce98abd8fb4206ba\jetified-play-services-basement-15.0.1\AndroidManifest.xml:24:13-58
+110            android:value="@integer/google_play_services_version" />
+110-->[com.google.android.gms:play-services-basement:15.0.1] C:\Users\q\.gradle\caches\transforms-2\files-2.1\f994ffe4924e11acce98abd8fb4206ba\jetified-play-services-basement-15.0.1\AndroidManifest.xml:25:13-66
+111        <!--
+112         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+113         with the application context. This config is merged in with the host app's manifest,
+114         but there can only be one provider with the same authority activated at any given
+115         point; so if the end user has two or more different apps that use Facebook SDK, only the
+116         first one will be able to use the provider. To work around this problem, we use the
+117         following placeholder in the authority to identify each host application as if it was
+118         a completely different provider.
+119        -->
+120        <provider
+120-->[com.facebook.android:facebook-core:5.15.3] C:\Users\q\.gradle\caches\transforms-2\files-2.1\624b68d64cb891555db810c1ce761865\jetified-facebook-core-5.15.3\AndroidManifest.xml:39:9-42:40
+121            android:name="com.facebook.internal.FacebookInitProvider"
+121-->[com.facebook.android:facebook-core:5.15.3] C:\Users\q\.gradle\caches\transforms-2\files-2.1\624b68d64cb891555db810c1ce761865\jetified-facebook-core-5.15.3\AndroidManifest.xml:40:13-70
+122            android:authorities="com.example.tabswithanimatedswipe.FacebookInitProvider"
+122-->[com.facebook.android:facebook-core:5.15.3] C:\Users\q\.gradle\caches\transforms-2\files-2.1\624b68d64cb891555db810c1ce761865\jetified-facebook-core-5.15.3\AndroidManifest.xml:41:13-72
+123            android:exported="false" />
+123-->[com.facebook.android:facebook-core:5.15.3] C:\Users\q\.gradle\caches\transforms-2\files-2.1\624b68d64cb891555db810c1ce761865\jetified-facebook-core-5.15.3\AndroidManifest.xml:42:13-37
+124
+125        <receiver
+125-->[com.facebook.android:facebook-core:5.15.3] C:\Users\q\.gradle\caches\transforms-2\files-2.1\624b68d64cb891555db810c1ce761865\jetified-facebook-core-5.15.3\AndroidManifest.xml:44:9-50:20
+126            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+126-->[com.facebook.android:facebook-core:5.15.3] C:\Users\q\.gradle\caches\transforms-2\files-2.1\624b68d64cb891555db810c1ce761865\jetified-facebook-core-5.15.3\AndroidManifest.xml:45:13-86
+127            android:exported="false" >
+127-->[com.facebook.android:facebook-core:5.15.3] C:\Users\q\.gradle\caches\transforms-2\files-2.1\624b68d64cb891555db810c1ce761865\jetified-facebook-core-5.15.3\AndroidManifest.xml:46:13-37
+128            <intent-filter>
+128-->[com.facebook.android:facebook-core:5.15.3] C:\Users\q\.gradle\caches\transforms-2\files-2.1\624b68d64cb891555db810c1ce761865\jetified-facebook-core-5.15.3\AndroidManifest.xml:47:13-49:29
+129                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+129-->[com.facebook.android:facebook-core:5.15.3] C:\Users\q\.gradle\caches\transforms-2\files-2.1\624b68d64cb891555db810c1ce761865\jetified-facebook-core-5.15.3\AndroidManifest.xml:48:17-95
+129-->[com.facebook.android:facebook-core:5.15.3] C:\Users\q\.gradle\caches\transforms-2\files-2.1\624b68d64cb891555db810c1ce761865\jetified-facebook-core-5.15.3\AndroidManifest.xml:48:25-92
+130            </intent-filter>
+131        </receiver>
+132    </application>
+133
+134</manifest>

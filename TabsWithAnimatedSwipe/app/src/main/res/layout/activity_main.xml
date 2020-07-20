@@ -9,7 +9,6 @@
         android:id="@+id/tab_layout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:tabBackground="@drawable/rainbow"
         app:tabIndicatorColor="#3F51B5"
         app:tabIndicatorHeight="4dp" />
 

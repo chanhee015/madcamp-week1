@@ -1,238 +1,326 @@
 [
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\menu\\menu_main.xml"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pic5.jpg.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\pic5.jpg"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_bonobono_foreground.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-hdpi\\ic_bonobono_foreground.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_layout.xml.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\layout\\list_item_layout.xml"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_account_circle_48.xml.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\ic_baseline_account_circle_48.xml"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bonobono_green.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\bonobono_green.png"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_databaseparrot.gif.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\databaseparrot.gif"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add_24.xml.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pic11.jpg.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\pic11.jpg"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_bonobono_foreground.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_bonobono_foreground.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_quadparrot.gif.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\quadparrot.gif"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bonobono_pink.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\bonobono_pink.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_bonobono_round.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xhdpi\\ic_bonobono_round.png"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_bonobono.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-hdpi\\ic_bonobono.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_bonobono_foreground.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_bonobono_foreground.png"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_bonobono_round.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_bonobono_round.png"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_editcontact.xml.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\layout\\dialog_editcontact.xml"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_bonobono.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-mdpi\\ic_bonobono.png"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_partyparrot.gif.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\partyparrot.gif"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bonobono2.PNG.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\bonobono2.PNG"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circular_button.xml.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\circular_button.xml"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_object1.xml.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\layout\\fragment_object1.xml"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\xml\\provider_paths.xml"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_bonobono.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xhdpi\\ic_bonobono.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slomoparrot.gif.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\slomoparrot.gif"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pic2.jpg.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\pic2.jpg"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\layout_save_picture.xml.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\layout\\save_picture.xml"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_object2.xml.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\layout\\fragment_object2.xml"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_editcontact.xml.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\layout\\dialog_editcontact.xml"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_docparrot.gif.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\docparrot.gif"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_bonobono_round.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-mdpi\\ic_bonobono_round.png"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_congaparrot.gif.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\congaparrot.gif"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_intro.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\intro.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pic9.jpg.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\pic9.jpg"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rainbow.jpg.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\rainbow.jpg"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_bonobono.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_bonobono.png"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pic18.jpg.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\pic18.jpg"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circular_button.xml.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\circular_button.xml"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_bonobono_round.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-hdpi\\ic_bonobono_round.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bonobono.jpg.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\bonobono.jpg"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_bonobono.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-mdpi\\ic_bonobono.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pic10.jpg.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\pic10.jpg"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_account_circle_24.xml.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\ic_baseline_account_circle_24.xml"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_docparrot.gif.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\docparrot.gif"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bonobono_background.xml.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\ic_bonobono_background.xml"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_bonobono_foreground.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xhdpi\\ic_bonobono_foreground.png"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_bonobono_foreground.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-mdpi\\ic_bonobono_foreground.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pic17.jpg.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\pic17.jpg"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_layout.xml.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\layout\\list_item_layout.xml"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_bonobono_foreground.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_bonobono_foreground.png"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_bonobono_round.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xhdpi\\ic_bonobono_round.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_object3.xml.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\layout\\fragment_object3.xml"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_bonobono.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_bonobono.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pic6.jpg.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\pic6.jpg"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_object1.xml.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\layout\\fragment_object1.xml"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pic14.jpg.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\pic14.jpg"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_intro.xml.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\layout\\activity_intro.xml"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_bonobono_round.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-hdpi\\ic_bonobono_round.png"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bonobono_green.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\bonobono_green.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rainbow.jpg.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\rainbow.jpg"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_bonobono_round.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_bonobono_round.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_addcontact.xml.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\layout\\dialog_addcontact.xml"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_databaseparrot.gif.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\databaseparrot.gif"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pic20.jpg.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\pic20.jpg"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bonobono_background.xml.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\ic_bonobono_background.xml"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_intro.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\intro.png"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_bonobono_foreground.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xhdpi\\ic_bonobono_foreground.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_bonobono_round.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_bonobono_round.png"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_quadparrot.gif.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\quadparrot.gif"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_bonobono_round.xml.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_bonobono_round.xml"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pic3.jpg.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\pic3.jpg"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shufflefurtherparrot.gif.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\shufflefurtherparrot.gif"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shufflefurtherparrot.gif.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\shufflefurtherparrot.gif"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_addcontact.xml.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\layout\\dialog_addcontact.xml"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_bonobono_round.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_bonobono_round.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_bonobono.xml.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_bonobono.xml"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pic7.jpg.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\pic7.jpg"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_bonobono_round.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-mdpi\\ic_bonobono_round.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bonobono_pink.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\bonobono_pink.png"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_bonobono_foreground.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_bonobono_foreground.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_picassoparrot.gif.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\picassoparrot.gif"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pic16.jpg.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\pic16.jpg"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bonobono2.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\bonobono2.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_picassoparrot.gif.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\picassoparrot.gif"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_object3.xml.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\layout\\fragment_object3.xml"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_bonobono.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_bonobono.png"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_partyparrot.gif.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\partyparrot.gif"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bonobono.jpg.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\bonobono.jpg"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_bonobono.xml.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_bonobono.xml"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_bonobono.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_bonobono.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pic13.jpg.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\pic13.jpg"
     },
     {
-        "merged": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_bonobono_foreground.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-mdpi\\ic_bonobono_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_bonobono_round.xml.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_bonobono_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\ic_baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_account_circle_48.xml.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\ic_baseline_account_circle_48.xml"
+    },
+    {
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pic4.jpg.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\pic4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_upload.xml.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\layout\\activity_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_bonobono.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xhdpi\\ic_bonobono.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slomoparrot.gif.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\slomoparrot.gif"
+    },
+    {
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pic19.jpg.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\pic19.jpg"
+    },
+    {
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_bonobono.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-hdpi\\ic_bonobono.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pic15.jpg.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\pic15.jpg"
+    },
+    {
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_bonobono_foreground.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-hdpi\\ic_bonobono_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_congaparrot.gif.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\congaparrot.gif"
+    },
+    {
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pic1.jpg.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\pic1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_object2.xml.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\layout\\fragment_object2.xml"
+    },
+    {
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pic12.jpg.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\pic12.jpg"
+    },
+    {
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pic8.jpg.flat",
+        "source": "C:\\Users\\q\\Desktop\\madcamp proj 1\\madcamp-week1\\TabsWithAnimatedSwipe\\app\\src\\main\\res\\drawable\\pic8.jpg"
     }
 ]

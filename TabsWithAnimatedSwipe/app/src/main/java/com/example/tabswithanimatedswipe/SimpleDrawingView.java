@@ -24,7 +24,7 @@ public class SimpleDrawingView extends View{
     private float mX, mY;
     private Path mPath;
     private Paint mPaint;
-    private ArrayList<FingerPath> paths = new ArrayList<>();
+    public ArrayList<FingerPath> paths = new ArrayList<>();
     private int currentColor;
     private int backgroundColor = DEFAULT_BG_COLOR;
     private int strokeWidth;
@@ -34,6 +34,7 @@ public class SimpleDrawingView extends View{
     private MaskFilter mBlur;
     private Bitmap mBitmap;
     private Canvas mCanvas;
+    private float emboss_factor = 3.5f;
 
     public SimpleDrawingView(Context context) {
         this(context, null);
@@ -51,15 +52,20 @@ public class SimpleDrawingView extends View{
         mPaint.setXfermode(null);
         mPaint.setAlpha(0xff);
 
-        mEmboss = new EmbossMaskFilter(new float[] {1, 1, 1}, 0.4f, 6, 3.5f);
+        mEmboss = new EmbossMaskFilter(new float[] {1, 1, 1}, 0.4f, 6, emboss_factor);
         mBlur = new BlurMaskFilter(5, BlurMaskFilter.Blur.NORMAL);
     }
 
-    public void init(DisplayMetrics metrics) {
+    public void init(DisplayMetrics metrics, Bitmap bitmap) {
+
         int height = metrics.heightPixels;
         int width = metrics.widthPixels;
-
-        mBitmap = Bitmap.createBitmap(width, height, Bitmap.Config.ARGB_8888);
+        if (bitmap == null){
+            mBitmap = Bitmap.createBitmap(width, height, Bitmap.Config.ARGB_8888);
+        }
+        else{
+            mBitmap = bitmap;
+        }
         mCanvas = new Canvas(mBitmap);
 
         currentColor = DEFAULT_COLOR;
@@ -121,19 +127,13 @@ public class SimpleDrawingView extends View{
         invalidate();
     }
 
-    public void setmBitmap(Bitmap bitmap){
-        mBitmap = bitmap;
+    public void setbgcolor(int color){
+        backgroundColor = color;
     }
-
 
     @Override
     protected void onDraw(Canvas canvas) {
-        //canvas.save();
         mCanvas.drawColor(backgroundColor);
-
-        if (mBitmap != null){
-            canvas.drawBitmap(mBitmap, 0, 0, null);
-        }
 
         for (FingerPath fp : paths) {
             mPaint.setColor(fp.color);
@@ -149,9 +149,10 @@ public class SimpleDrawingView extends View{
 
         }
 
-        //canvas.restore();
+        if (mBitmap != null){
+            canvas.drawBitmap(mBitmap, 0, 0, mPaint);
+        }
     }
-
 
     private void touchStart(float x, float y) {
         mPath = new Path();
@@ -181,6 +182,7 @@ public class SimpleDrawingView extends View{
 
     @Override
     public boolean onTouchEvent(MotionEvent event) {
+
         float x = event.getX();
         float y = event.getY();
 
